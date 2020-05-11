@@ -1,0 +1,9 @@
+Pyperclip is needed in order to use/work-with the information as text copied and pasted.
+
+Here is the direct Anaconda link install of pyperclip:"
+
+https://anaconda.org/conda-forge/pyperclip
+Into the anaconda command --->   conda install -c conda-forge pyperclip
+"
+
+With the use of anaconda we can easy install different modules instead of the typical pip install methodology.
